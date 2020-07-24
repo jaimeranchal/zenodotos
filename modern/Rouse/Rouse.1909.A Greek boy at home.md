@@ -1,5 +1,59 @@
 **A Greek Boy at Home**
 
+# Prefacio
+
+Este libro está pensado para ser utilizado con mi *First Greek Course*, en lugar de los ejercicios de lectura incluídos en él: es decir, la gramática sigue el mismo orden [que en *First Greek Course*]. Los primeros capítulos de la gramática proporcionan un cierto número de ejercicios, en los que se repite el mismo vocabulario; se espera con esto que así se pueda repasar el tema principal sin necesidad de leer el mismo ejercicio una y otra vez *ad nauseam*. Por lo tanto el primer ejercicio de lectura (II) tiene cuatro secciones, el nº III tiene nueve, el nº IV, trece. Es justo al principio, cuando todo resulta extraño para el alumno, cuando éste quiere moverse despacio. Si lee todos estos ejercicios, repitiendo con regularidad los paradigmas, terminará por conocer bien la primera parte de la gramática; si la aprende primero, el profesor podrá continuar, o si no lo ha hecho, no será ningún problema, puesto que hay algo nuevo en cada sección.
+
+Los números romanos se corresponden a las secciones del *First Greek Course*; los ejercicios en número arábigos asumen que se ha trabajado en profundidad toda la gramática.
+
+Estaré muy agradecido a cualquiera que me comunique los resultados de este plan en sus chicos, y en qué etapa [*stage*¿capítulo?¿sección?] exacta cada chico (o grupo de chicos) ha demostrado haber dominado la gramática. Se agradece lo mismo con el vocabulario; en particular, me gustaría conocer hasta dónde se necesita revisar un texto dado -- hasta qué punto, por ejemplo, han aprendido los numerales tras leer en voz alta los ejercicios (pp. 17-19).
+
+Uno o dos diálogos aparecen pronto en el libro (II, β, III ε, IV β): están pensados para mostrar que el asunto de cualquier ejercicio puede ser explicado claramente hablando. En ellos, no se mantiene la *ilusión del narrador*, y lo mismo puede decirse de IV θ-κ;  quizá hubiera sido mejor situarlos en el apéndice, pero probablemente estén bien donde están.
+
+He tenido mucha suerte encontrando algunos versos escolares de Trasímaco en un conjunto de tablillas de cera; están recogidos en el apéndice 3-18. En algunos lugares el texto estaba corrupto, pero ha sido restaurado con la ayuda de los profesores J.P. Postgate y R.S. Conway, a quienes estoy sumamente agradecido por su ayuda, aquí y en general en todo el libro. Los versos son muy apropiados [*creditable*] para chicos jóvenes.
+
+El material de este libro ha sido recopilado de toda clase de fuentes, cualquier cosa que pudiera encontrar para ilustrar la vida griega o ser interesante para el lector. Algunos de los autores de los bebe el texto son Homero, Hesíodo, Heródoto, Esquilo, Platón, Demóstenes, Aristóteles, Menandro, Esopo, Dión Crisóstomo, Eliano y los novelistas. Los he usado con muchísima libertad. La sintaxis y la flexión han sido adaptadas para acomodarse al dialecto ático, pero el vocabulario se ha dejado tal cual. Aquellos que piensen que los tiernos labios de un joven sólo deberían pronunciar palabras áticas quedarán insatisfechos. Por mi parte, no creo que un barniz de Homero o Hesíodo contamine el gusto de nadie. Más aún, la juventud tiene el maravilloso poder de olvidar, y el profesor puede decidir a su discreción qué permitirá que olviden.
+
+Mi responsabilidad termina una vez avisado de que el vocabulario está muy mezclado.
+
+El vocabulario ha sido organizado de forma que las palabras que aparezcan antes estén explicadas en castellano [inglés], pero tan pronto como se aprendan unas pocas palabras griegas, éstas se utilizarán para explicar las demás. En caso de necesidad, el profesor puede siempre ayudar: pero no debería ser necesario. Si esta idea es nueva para algún lector, le sorprenderá qué poco castellano [inglés] hace falta para enseñar griego. Debo recordarle que el vocabulario es un registro de lo que ya se ha hecho, no de lo que pueda hacerse: el libro en su conjunto representa el resultado de cuidadosos intentos.
+
+## Consejos para usar este libro
+
+### 1. Lectura
+
+El libro está pensado para ser leído en voz alta y explicado en clase. Para la primera lectura los chicos deben tener delante únicamente el texto, sin el vocabulario. El progreso será lento al principio, hasta que unas pocas palabras griegas resulten familiares. Debe ser ler leído primero por el profesor, frase a frase, explicando cada nueva palabra, en inglés al comienzo, en un griego simple conforme se conozca el vocabulario necesario. Los chicos pueden entonces leer en voz alta a coro, o solos, por turnos. Bajo ningún concepto puede dejar un chico dejar pasar nada que no conozca sin pedir una explicación, y no quedará satisfecho hasta que la dificultad haya sido solventada. Este es un principio fundamental de la enseñanza de idiomas, y sin él no se puede hacer nada. El profesor debe de alguna manera cerciorarse de que la clase comprende de verdad, bien haciendo preguntas, bien haciéndoles leer el texto después de que lo haya hecho él. Finalmente, el trabajo debe ser escrito en castellano [inglés] para el siguiende día de clase, o preparado para una traducción oral. Todas las preguntas deben ser realizadas y respondidas en griego, y en castellano [inglés] sólo cuando todo lo demás falle.
+
+### 2. Reproducción
+
+Es tan esencial como la lectura. Puede hacerse de tres formas:
+
+1. Preguntas sobre el texto en griego, respondidas en griego a) con libros, b) sin libros, tanto oral como escritas.
+2. Reelaboración de una historia en griego, con la ayuda de una traducción, a) oralmente o b) por escrito. El castellano [ingles] debe ser utilizado únicamente como una guía para la memoria, y historia, tal y como se cuente, no tiene por qué traducirlo literalmente. Un ejercicio excelente.
+3. Reelaboraciónde una historia en griego por escrito. Suele ser muy difícil hasta  el tercer trimestre. Más adelante se pueen programar tareas similares como trabajos (*temas* o *proyectos*)
+
+Cuando el profesor da una explicación, la clase debe apuntar en los cuadernos. Deben hacerlo de oído, sin hablar, e insertando los acentos tal y como los pronuncie el profesor. Las palabras nuevas se escribirán en la pizarra. El profesor debe asegurarse de que escriben correctamente espíritus y acentos, dando vueltas o llamándolos por turnos para comprobarlo. Al principio será lento, pero después de no mucho encontrará que realizan la tarea correctamente. No hace ningún daño aprender los acentos pronto, puesto que son parte de la palabra, explicando las reglas de acentuación conforme sea necesario.
+
+Se puede entregar el vocabulario a los chicos, para que lo consulten. No se pretende que lo usen al principio, puesto que escribir es esencial para fijar las palabras y las formas en la memoria. Mientras, servirá para ayudar al profesor hasta que tenga suficiente práctica para dar las explicaciones sobre la marcha.
+
+Es posible introducir nuevas expresiones en las preguntas y respuestas de los alumnos cuando el profesor desee introducirlas. Así, un simple ἆρ' οἶσθα o un μανθάνεις o συνίης puede sustituirse con un τί δοκεῖ σοι, ἆρα φανερόν, ἆρα δῆλον, τίνι οὐ φανερόν y semejantes: las respuestas, no solo μανθάνω etc., sino también οὐδενὶ ᾧτινι οὐ φανερόν, οὐκ ἔσθ' ὅπως οὐκ οἶδα etc. Sorprende la cantidad de expresiones que pueden volverse familiares con su uso continuo.
+
+De modo similar, tan pronto como se aprendan los numerales, la clase debe leer en voz alta cada día la página y línea del libro en griego, y las citas deben darse de manera semejante: así ὅρα σελίδα τριακοστὴν καὶ στίχον τέταρτον.
+
+A veces el profesor puede leer uno de los episodios en voz alta, sin que la clase tenga el libro delante, y completarlo mediante preguntas: luego se les puede pedir que lo escriban.
+
+Con un poco de ingenio se puede incluir en una lección lo que se quiera enseñar.
+
+Finalmente, debo insistir al profesor en que no es suficiente que él hable. Los alumnos deben hablar también, y cuánto más lo hagan, mejor.
+
+Estas sugerencias y precauciones están extraídas de la experiencia de mi amigo D. W.H.S. Jones, y de la mía propia.
+
+# Índice de contenidos
+
+[TOC]
+
+
+
 # 1. Οστις ειμι εγω
 
 ἐγὼ μέν εἰμὶ παιδίον Ἑλληνικόν, οἰκῶ δ' ἐν ἀγροῖς· ἐνταῦθα γὰρ ἐν τοῖς ἀγροῖς γεωργός τις Θράσυλλός ἐστιν, ὃς γεωργεῖ καὶ ἔχει χωρίον· ἆρ᾽ ἐρωτᾷς, τίς μὲν ἐγώ, τίς δ’ ὁ Θράσυλλος; λέγω δή, τέκνον γάρ εἰμι ἐγὼ τοῦ Θρασύλλου. καὶ μὴν ἄλλα γε ἔχει τέκνα ὁ Θράσυλλος· καὶ γὰρ ἐγώ εἰμι τέκνον αὐτοῦ, καὶ ἔχω ἀδελφόν τε καὶ ἀδελφήν· ὀνομάζουσι δ’ ἐμὲ μὲν Θρασύμαχον, τὸν δ’ ἀδελφὸν ὀνομάζουσιν Θρασύστομον, τὴν δ’ ἀδελφὴν Ἑλένην ὀνομάζουσιν. ἐσμὲν οὖν τέκνα τοῦ Θρασύλλου, ἐσμὲν δὲ καὶ τῆς Εὐρυδίκης τέκνα.
@@ -205,7 +259,7 @@
 χθὲς ἄνεμος ἦν λαβρότατος καὶ ὑετὸς καὶ ἀστραπὴ καὶ βροντή. ἡμεῖς δὲ ἐντὸς ἐκαθίζομεν.
 
 
- 
+
 
 ἦσαν δὲ δύο τινες φίλοι παρ’ ἡμῖν, ἔλεγεν δὲ ὁ ἕτερος, "ἰδού, ὡς ὁμοίοι εἰσι οἱ ἀδελφοί· οὐ γὰρ σῦκον σύκῳ ὁμοιότερον." ὁ δὲ ἕτερος λέγει, "ἀλλ’ οὐχ οὕτως ὅμοιός ἐστιν οὗτος ἐκείνῳ, ὡς ἐκεῖνος τούτῳ," οἱ δ᾽ ἄλλοι ἐγέλασαν, ἐπειδὴ ἤκουσαν τοῦ ἀνθρώπου.
 
@@ -290,3 +344,123 @@
 # 12. ἀκρόπολις
 
 φαίνεται καὶ ἐνθένδε ἡ πόλις ἡ τῶν Ἀθηναίων · λέγω δὲ τὴν ἀκρόπολιν · ἡ γὰρ ἀκρόπολις πέτρα ἐστὶν ἐν μέσῃ τῇ πόλει, καὶ ἐπὶ τῆς ἀκροπόλεως ναοί εἰσι πολλοί, τῆς τ΄ Ἀθήνης καῖ τῶν ἄλλων θεῶν. ἦν μὲν τὸ πάλαι δῶμα βασιλικὸν ἐπὶ τῆς ἀκροπόλεως · νῦν δὲ δημοκρατίας οὔσης ἐπαύσατο μὲν βασιλικὸν ὄν τὸ δῶμα, οὐκέτι μὲν οὖν ἔστι δῶμα · ἀλλὰ ναοὶ ἔνεισιν ἀντὶ τούτου. ἔστι μὲν ναὸς τῆς Ἀθήνης μέγιστος καὶ κάλλιστος, ἔστι δὲ τῆς Νίκης, εἰσὶ δὲ καὶ ἄλλων θεῶν, ὧν τὰ ὀνόματα διηγήσομαι ὕστερον, ὅταν μάθῃς κάλλιον τὴν ἡμετέραν γλῶτταν. οὐ γὰρ ῥᾴδιον διηγεῖσθαι τῷ μὴ ἔχοντι ἐπιστήμην. περιέχει δὲ τὴν ἀκρόπολιν τείχη, ἅπερ μετὰ σπουδῆς ᾠκοδόμησαν εὐθὺς μετὰ τὰ Μηδικὰ · ἴδοις δ' ἄν ἐν μέσοις τοῖς τείχεσιν καὶ ἐρείπια ἀρχαίων ναῶν καὶ στήλας τῶν ἀποθανόντων. ὕψος δ' ἔχει τὰ τείχη πήχεις μάλιστα τριάκοντα.
+
+# 13. τὰ τείχη
+
+## 13.1. ὁ μῶρος
+
+# 14. πλοῖα
+
+## 14.1. μέρη νεώς
+
+## 14.2. πλήρωμα
+
+## 14.3. κόχλος
+
+## 14.4. τοῦ σώματος τὰ μέρη
+
+# 15. πλοῦς
+
+## 15.1. δεῖπνον
+
+# 16-17. ἡ Σαλαμῖνι μάχη
+
+# 18. διάλογος
+
+# 19. δικαστὴς βουκόλος
+
+# 20. ἀτυχίαι
+
+# 21. ὧραι
+
+## 21.1. χειμών
+
+## 21.2. ἄροτος
+
+## 21.3. ἔαρ
+
+## 21.4. σῦριγξ
+
+## 21.5. θέρος
+
+## 21.6. τέττιξ
+
+## 21.7. ἀπάτη
+
+## 21.8. σφὴξ καὶ μελίττα
+
+## 21.9. χόλος
+
+## 21.10. φάττα
+
+## 21.11. τρύγητος
+
+## 21.12. ἀτυχία
+
+## 21.13. Ἀσκληπιός
+
+## 21.14. τὰ τῆς μάνδρας
+
+## 21.15. μύλη
+
+## 21.16. χειμών
+
+## 21.17. βάτραχοι
+
+## 21.18. παιδιά
+
+## 21.19. Ἑρμῆς
+
+## 21.20. κρίσις
+
+## 21.21. Παραθήναια
+
+## 21.22. συμπόσιον
+
+## 21.23. κακὸς γείτων
+
+## 21.24. κυνηγέτης
+
+# Apéndices
+
+## 1.τραπεζίτης
+
+## 2. διάλογος
+
+### α. Πασίων, Ζηνόθεμις, Ἡγέστρατος
+
+### β. Φιλών, Ἡγέστρατος, Ζηνόθεμις
+
+### γ. ἔξω
+
+## 3. ὄρνιθες
+
+## 4. πέρδιχ καὶ χελώνη
+
+## 5. μύρμηξ
+
+## 6. μέλιτται
+
+## 7. ἀράχνη
+
+## 8. θήρα Ἰνδική
+
+## 9. γρύψ
+
+## 10. κύων
+
+## 11. ψιττακός
+
+## 12. πλοῦς
+
+## 13. τὰ τῆς ἡμέρας
+
+## 14. ἄροτος
+
+## 15. σπορεύς καὶ θεριστής
+
+## 16. ἀλοητός
+
+## 17. ἐκκλησία
+
+## 18. στρατός
